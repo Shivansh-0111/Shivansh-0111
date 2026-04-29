@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shivansh Jaiswal</h1>
-<h3 align="center">A passionate Developer from Delhi.</h3>
+<h3 align="center">A geoAI Engineer from Varanasi.</h3>
 
 - 🔭 I’m currently working on **Credit Card Fraud Detection - A Research Project**
 
-- 🌱 I’m currently learning **Java Development and DSA**
+- 🌱 I’m currently learning **geoAI and Spatial Analysis with Machine Learning**
 
-- 👯 I’m looking to collaborate on **CCFD**
+- 👯 I’m looking to collaborate on my future projects in Remote Sensing and GIS.
 
-- 💬 Ask me about **Remote Sensing and GIS, Java, SQL**
+- 💬 Ask me about **Remote Sensing and GIS, geoAI, Machine Learning, Spatial Analysis, SQL**
 
 - 📫 How to reach me **shivanshjaiswal12012003@gmail.com**
 
